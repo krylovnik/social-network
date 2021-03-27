@@ -1,0 +1,16 @@
+.dialogPage {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+.dialogsList {
+    margin: 20px;
+}
+.allMessages {
+    margin: 20px;
+}
+.dialog{
+    margin-bottom : 10px;
+}
+.message {
+    margin-bottom : 10px;
+}

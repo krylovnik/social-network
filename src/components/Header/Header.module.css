@@ -1,0 +1,19 @@
+.header {
+    height: 50px;
+    background-color: #0066CC;
+}
+.header img{
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+}
+.logo_wrapper {
+    margin: 0 auto;
+    width: 1280px;
+}
+.loginBlock {
+    float: right;
+}
+.loginBlock a {
+    color: white
+}

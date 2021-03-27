@@ -1,0 +1,30 @@
+.navbar{
+    background-color: red;
+    width: 17%;
+    font-weight: 700;
+}
+.navbar ul {
+    list-style-type:none;
+    padding: 0;
+    margin: 0 0 0 10px;
+}
+.menu li{
+    margin-bottom: 10px;
+}
+.navbar img {
+    display: block;
+    width:200px;
+    margin: 5px;
+}
+
+li a {
+    text-decoration: none;
+    color : #1344de;
+}
+a.active {
+    color: gold;
+}
+li:first-child {
+    margin-top:20px;
+}
+

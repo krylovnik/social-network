@@ -1,0 +1,13 @@
+.second_ava img {
+    display: block;
+    width: 95%;
+    height : 200px;
+    margin: 10px auto;
+}
+.avatar {
+    height: 130px;
+}
+.avatar_descr {
+    margin: 0 26px;
+}
+
